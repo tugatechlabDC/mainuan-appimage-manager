@@ -100,9 +100,9 @@ mainuan-appimage-manager/
 
 ## Contributing
 
-Report issues in [Issues](https://github.com/mainuan/mainuan-grub-editor/issues)
+Report issues in [Issues](https://github.com/mainuan/mainuan-appimage-manager/issues)
 and submit changes via pull request to the `main` branch. Every PR must pass the
-[CI](https://github.com/mainuan/mainuan-grub-editor/actions/workflows/ci.yml)
+[CI](https://github.com/mainuan/mainuan-appimage-manager/actions/workflows/ci.yml)
 checks, which must all be green (passing). Document any visible changes in
 [CHANGELOG.md](CHANGELOG.md) and `debian/changelog`.
 
@@ -110,6 +110,5 @@ checks, which must all be green (passing). Document any visible changes in
 
 - David Caixinha ([@tugatechlabDC](https://github.com/tugatechlabDC)): developer and maintainer of the package (`debian/control`).
 
-## License
 
 This project is licensed under the GPL-3.0 License — see the `debian/copyright` file for details.
